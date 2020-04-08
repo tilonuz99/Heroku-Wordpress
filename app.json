@@ -2,4 +2,4 @@
     "name": "Ferdhika Blog",
     "description": "Deploying WordPress to Heroku using the Heroku Button. Source : TechnoMile LLC",
     "addons": ["cleardb:ignite","newrelic:stark","sendgrid:starter"]
-}
+} 
